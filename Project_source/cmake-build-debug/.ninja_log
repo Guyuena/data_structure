@@ -1,0 +1,16 @@
+# ninja log v5
+262	368	6918431599919329	Project_source.exe	c3dde3e5195e5760
+6	419	6918403610254451	CMakeFiles/Project_source.dir/stack/stack.cpp.obj	79e8e1ec352ee1f1
+17	415	6918403610214414	CMakeFiles/Project_source.dir/queue/queue.cpp.obj	be168a7ae1e66d95
+26	406	6918403610094306	CMakeFiles/Project_source.dir/queue/queueClass.cpp.obj	ed652a5d9f6c4f20
+3	294	6918430331173550	CMakeFiles/Project_source.dir/main.cpp.obj	270b5762a886aaa0
+10	428	6918403610364550	CMakeFiles/Project_source.dir/stack/stackLink.cpp.obj	aceeb6b524fc9c6b
+0	132	6980662364540522	build.ninja	f64735d5d366f534
+15	118	6918403607241717	CMakeFiles/Project_source.dir/queue/cirqueue.cpp.obj	9ce055f749f33dc9
+12	418	6918403610254451	CMakeFiles/Project_source.dir/stack_use_example.cpp.obj	3ac3c734701a2d1c
+8	423	6918403610314510	CMakeFiles/Project_source.dir/queue/anyqueue.cpp.obj	4981627d0a334fbe
+7	448	6918392604295811	CMakeFiles/Project_source.dir/queue/linkQueue.cpp.obj	b343f8cdac9fa074
+3	262	6918431598878387	CMakeFiles/Project_source.dir/queue/linkqueue.cpp.obj	861c8453d79d08a9
+3	487	6980663235794795	CMakeFiles/Project_source.dir/example/stack_use_example.cpp.obj	bb973a15e0b5f20e
+9	488	6980663235794795	CMakeFiles/Project_source.dir/example/p24_demo.cpp.obj	c7aea11e77ad4b38
+6	488	6980663235804799	CMakeFiles/Project_source.dir/queue/linkqueue.cpp.obj	861c8453d79d08a9
